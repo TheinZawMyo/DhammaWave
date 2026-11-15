@@ -1,0 +1,173 @@
+export default {
+  appTitle: 'DhammaWave',
+  appTagline: 'Dhamma audio for every moment of your day',
+
+  navHome: 'Home',
+  navBrowse: 'Browse',
+  navTeachers: 'Teachers',
+  navDownload: 'Get the App',
+  navPrivacy: 'Privacy Policy',
+  navMenu: 'Menu',
+  navClose: 'Close',
+
+  languageBurmese: 'မြန်မာ',
+  languageEnglish: 'English',
+  languageLabel: 'Language',
+
+  heroEyebrow: 'Dhamma audio library',
+  heroTitle: 'Listen to Dhamma teachings, anywhere',
+  heroSubtitle:
+    'Browse talks, chants and reflections from respected teachers. Stream online, or download the app to listen offline.',
+  heroPrimaryCta: 'Browse the library',
+  heroSecondaryCta: 'Download the app',
+
+  homeFeatured: 'Featured Dhamma',
+  homeLatest: 'Latest Dhamma',
+  homeTeachers: 'Teachers',
+  homeCategories: 'Categories',
+  homeAudioTypes: 'Audio types',
+  homeViewAll: 'View all',
+  homeLoading: 'Loading dhamma talks...',
+
+  durationMinutes: '{minutes} min',
+  durationHoursMinutes: '{hours} hr {minutes} min',
+
+  browseTitle: 'Browse',
+  browseSearchHint: 'Search titles or teachers...',
+  browseFilterCategory: 'Category',
+  browseFilterType: 'Type',
+  browseFilterTeacher: 'Teacher',
+  browseFilterClear: 'Clear filters',
+  filterAll: 'All',
+  browseEmptyTitle: 'No dhamma talks found',
+  browseEmptySubtitle: 'Try changing the filters.',
+  browseResultCount: '{count} dhamma talks',
+  browseLoadMore: 'Load more',
+  browseLoadingMore: 'Loading...',
+  browseSearching: 'Searching...',
+
+  teachersTitle: 'Teachers',
+  teachersSubtitle: 'Learn from teachers whose recordings are collected in the catalog.',
+  teachersEmptyTitle: 'No teachers yet',
+  teacherAudios: 'Audios by {teacher}',
+  teacherBio: 'About',
+  teacherMoreTitle: 'More from {teacher}',
+  teacherNotFound: 'Teacher not found',
+
+  audioDetailTitle: 'Audio',
+  audioDescription: 'Description',
+  audioListen: 'Listen',
+  audioPlaying: 'Playing',
+  audioPause: 'Pause',
+  audioResume: 'Resume',
+  audioNotFound: 'Audio not found',
+  audioPublishedOn: 'Published {date}',
+  audioRelatedCategories: 'Categories',
+  audioRelatedType: 'Type',
+  audioOpenApp: 'Open in app',
+  audioShare: 'Share',
+  audioFavorite: 'Save to favorites',
+  audioRemoveFavorite: 'Remove from favorites',
+  downloadFeaturesTitle: 'Everything you need to listen',
+
+  playerNowPlaying: 'Now playing',
+  playerQueue: 'Queue ({count})',
+  playerQueueEmpty: 'Queue is empty',
+  playerSpeedTitle: 'Playback speed',
+  playerErrorNetwork: 'Network connection is weak.',
+  playerErrorSource: 'Unable to play this audio.',
+  playerErrorGeneric: 'An error occurred during playback.',
+  playerClose: 'Close player',
+  playerSkipBack: 'Back 10 seconds',
+  playerSkipForward: 'Forward 10 seconds',
+
+  downloadEyebrow: 'DhammaWave app',
+  downloadTitle: 'Take your Dhamma library with you',
+  downloadSubtitle:
+    'Download the DhammaWave app for Android and listen to your saved talks offline — no account, no ads, no tracking.',
+  downloadCtaAndroid: 'Download for Android',
+  downloadCtaIos: 'Download for iOS',
+  downloadPlatformAndroid: 'Android',
+  downloadPlatformIos: 'iOS',
+  downloadLinksNote: 'The download links will be added shortly.',
+  downloadQrAndroidCaption: 'Scan to download for Android',
+  downloadVersion: 'Version 1.0.0',
+  downloadSize: 'Size',
+  downloadRequirementAndroid: 'Android 6.0 (API 23) or newer',
+  downloadRequirementIos: 'iOS 15 or newer',
+  downloadNote:
+    'After installing, open the app to browse the full catalog and save talks for offline listening.',
+  downloadQrAlt: 'QR code to download the DhammaWave app',
+  downloadFeatureOffline: 'Offline listening',
+  downloadFeatureOfflineBody:
+    'Save talks to your device and listen without an internet connection.',
+  downloadFeatureBackground: 'Background playback',
+  downloadFeatureBackgroundBody:
+    'Keep listening while the screen is off or you are using another app.',
+  downloadFeatureSpeed: 'Playback speed',
+  downloadFeatureSpeedBody: 'Slow the recording down or speed it up to your own pace.',
+  downloadFeatureQueue: 'Play queue',
+  downloadFeatureQueueBody: 'Line up several talks and listen to them one after another.',
+  downloadFeatureFavorites: 'Favorites',
+  downloadFeatureFavoritesBody: 'Keep the talks you love in one place for quick access.',
+  downloadFeaturePrivacy: 'No account, no ads',
+  downloadFeaturePrivacyBody:
+    'No sign-up, no advertising identifiers and no tracking of your listening.',
+  downloadInstallTitle: 'How to install',
+  downloadStep1: 'Download the APK file to your phone.',
+  downloadStep2: 'Open the downloaded file and allow installing from this source.',
+  downloadStep3: 'Open DhammaWave and start listening.',
+  downloadFaqTitle: 'Frequently asked questions',
+  downloadFaq1Q: 'Is the app free?',
+  downloadFaq1A:
+    'Yes. DhammaWave is free to download and use. There are no ads and no in-app purchases.',
+  downloadFaq2Q: 'Do I need an account?',
+  downloadFaq2A:
+    'No. The app works without an account, so you can start listening right away.',
+  downloadFaq3Q: 'Can I listen without internet?',
+  downloadFaq3A:
+    'Yes. Downloaded talks are stored privately on your device and can be played offline.',
+  downloadFaq4Q: 'Where are my downloads stored?',
+  downloadFaq4A:
+    'Downloads stay in the app’s private files directory. You can remove them at any time from the Downloads tab.',
+  downloadFaq5Q: 'Which languages are supported?',
+  downloadFaq5A: 'Burmese and English.',
+
+  privacyTitle: 'Privacy Policy',
+  privacyLastUpdated: 'Last updated: November 2026',
+  privacyIntro:
+    'This Privacy Policy explains how Buddha Dhamma ("the app") handles your information. The app is a Dhamma audio catalog for listening and publishing. By using the app, you agree to this policy.',
+  privacyDataTitle: 'Information we collect',
+  privacyDataBody:
+    'The app does not require an account and does not collect personal information such as your name, email address, or phone number. We do not use advertising identifiers, analytics SDKs, or tracking tools.',
+  privacyLocalTitle: 'Information stored on your device',
+  privacyLocalBody:
+    'Your language preference, saved favorites, playback progress, and downloaded audio are stored only on your device. You can remove downloads at any time from the Downloads tab, and clearing the app\'s data removes all locally stored information.',
+  privacyNetworkTitle: 'Network requests',
+  privacyNetworkBody:
+    'The app connects to our catalog server to load dhamma talks, cover images, and audio streams. Like most internet services, the server may temporarily process standard technical data such as your IP address, device type, and request time to deliver content and keep the service secure. This data is not used to identify you personally.',
+  privacySharingTitle: 'Sharing of information',
+  privacySharingBody:
+    'We do not sell, rent, or share your information with third parties. The app does not include third-party advertising or social media tracking.',
+  privacyChildrenTitle: "Children's privacy",
+  privacyChildrenBody:
+    'The app is suitable for general audiences, including children. Because we do not collect personal information, we do not knowingly collect data from children.',
+  privacyChangesTitle: 'Changes to this policy',
+  privacyChangesBody:
+    'We may update this policy from time to time. Changes take effect when the updated policy is available in the app. Continued use of the app after an update means you accept the revised policy.',
+  privacyContactTitle: 'Contact us',
+  privacyContactBody:
+    'If you have questions about this Privacy Policy, please contact us using the contact details listed on the app store page.',
+
+  errorTitle: 'Something went wrong',
+  errorNetworkSubtitle: 'Check your connection and try again.',
+  errorRetry: 'Retry',
+  errorNotFoundTitle: 'Page not found',
+  errorNotFoundBody: 'The page you are looking for does not exist.',
+  errorBackHome: 'Back to home',
+
+  footerRights: '© {year} Buddha Dhamma. All rights reserved.',
+  footerBuiltWith: 'Dhamma audio catalog powered by the Buddha Audio API.',
+  footerExplore: 'Explore',
+  footerLegal: 'Legal',
+}
